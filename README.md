@@ -1,4 +1,6 @@
-#Project Title
-Predicting Income with Random Forests
+# Project Title
+Project 1 : Predicting Income with Random Forests
+Project 2 : Email Similarity using Naive Bayes
 # Description
-Predict whether or not a person makes more than $50,000
+Project 1 : Predict whether or not a person makes more than $50,000
+Project 2 : Check how difficult to distinguish between two different emails
